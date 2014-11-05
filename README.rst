@@ -11,6 +11,10 @@ Google Drive Sync
 .. image:: https://pypip.in/d/google_drive_sync/badge.png
         :target: https://pypi.python.org/pypi/google_drive_sync
 
+.. image:: https://readthedocs.org/projects/google-drive-sync/badge/?version=latest
+        :target: https://readthedocs.org/projects/google-drive-sync/?badge=latest
+        :alt: Documentation Status
+
 
 Sync The current folder and all its subfolders to Google Drive
 
