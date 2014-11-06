@@ -18,7 +18,7 @@ Google Drive Sync
 
 Sync The current folder and all its subfolders to Google Drive
 
-* Free software: BSD license
+* Free software: GNU GPL v3.0 license
 * Documentation: https://google_drive_sync.readthedocs.org.
 
 Features
